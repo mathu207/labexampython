@@ -1,0 +1,10 @@
+def()=s1,s2:
+    s1=int(input("enter the number"))
+    s2=int(input("enter the number"))
+def __init__(s1)
+    s1=(1 to n)
+    print(s1)
+def __init__ (s2)
+    s2=(1 to n)
+    print(s2)
+print(s1,s2)
